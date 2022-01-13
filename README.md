@@ -6,6 +6,8 @@
 
 - Programming Elixir ≥ 1.6: Functional |> Concurrent |> Pragmatic |> Fun
 
+- Programming Phoenix 1.4: Productive |> Reliable |> Fast 
+
 - 99 bottles of OOP
 
 - Head First Ruby
